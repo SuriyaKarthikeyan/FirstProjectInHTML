@@ -1,0 +1,53 @@
+body
+{
+    margin: 8px auto;
+    width: 98%;
+    
+}
+
+#main
+{
+  background-color: #EEEEEE;
+  border: 1px solid #EEEEEE;
+   border-radius: 5px;
+}
+
+.text-center-section
+{
+    text-align: center;
+}
+
+#img-section
+{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.norman-img
+{
+    max-width: 100%;
+}
+
+.third-section-list-content
+{
+    width: 43%;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul
+{
+    padding-top: 2%;
+}
+li
+{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.third-section-quote
+{
+    padding-left: 3%;
+}
+
